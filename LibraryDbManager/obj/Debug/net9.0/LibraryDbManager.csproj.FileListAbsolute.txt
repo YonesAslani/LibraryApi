@@ -1,0 +1,14 @@
+F:\Project Practise\Library\LibraryDbManager\bin\Debug\net9.0\LibraryDbManager.deps.json
+F:\Project Practise\Library\LibraryDbManager\bin\Debug\net9.0\LibraryDbManager.dll
+F:\Project Practise\Library\LibraryDbManager\bin\Debug\net9.0\LibraryDbManager.pdb
+F:\Project Practise\Library\LibraryDbManager\obj\Debug\net9.0\LibraryDbManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project Practise\Library\LibraryDbManager\obj\Debug\net9.0\LibraryDbManager.AssemblyInfoInputs.cache
+F:\Project Practise\Library\LibraryDbManager\obj\Debug\net9.0\LibraryDbManager.AssemblyInfo.cs
+F:\Project Practise\Library\LibraryDbManager\obj\Debug\net9.0\LibraryDbManager.csproj.CoreCompileInputs.cache
+F:\Project Practise\Library\LibraryDbManager\obj\Debug\net9.0\LibraryDbManager.dll
+F:\Project Practise\Library\LibraryDbManager\obj\Debug\net9.0\refint\LibraryDbManager.dll
+F:\Project Practise\Library\LibraryDbManager\obj\Debug\net9.0\LibraryDbManager.pdb
+F:\Project Practise\Library\LibraryDbManager\obj\Debug\net9.0\ref\LibraryDbManager.dll
+F:\Project Practise\Library\LibraryDbManager\bin\Debug\net9.0\LibraryDbManager.runtimeconfig.json
+F:\Project Practise\Library\LibraryDbManager\obj\Debug\net9.0\LibraryDbManager.csproj.AssemblyReference.cache
+F:\Project Practise\Library\LibraryDbManager\obj\Debug\net9.0\LibraryDbManager.genruntimeconfig.cache

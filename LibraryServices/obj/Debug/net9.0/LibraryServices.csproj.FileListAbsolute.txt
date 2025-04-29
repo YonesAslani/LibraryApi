@@ -1,0 +1,15 @@
+F:\Project Practise\Library\LibraryServices\bin\Debug\net9.0\LibraryServices.deps.json
+F:\Project Practise\Library\LibraryServices\bin\Debug\net9.0\LibraryServices.dll
+F:\Project Practise\Library\LibraryServices\bin\Debug\net9.0\LibraryServices.pdb
+F:\Project Practise\Library\LibraryServices\obj\Debug\net9.0\LibraryServices.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project Practise\Library\LibraryServices\obj\Debug\net9.0\LibraryServices.AssemblyInfoInputs.cache
+F:\Project Practise\Library\LibraryServices\obj\Debug\net9.0\LibraryServices.AssemblyInfo.cs
+F:\Project Practise\Library\LibraryServices\obj\Debug\net9.0\LibraryServices.csproj.CoreCompileInputs.cache
+F:\Project Practise\Library\LibraryServices\obj\Debug\net9.0\LibraryServices.dll
+F:\Project Practise\Library\LibraryServices\obj\Debug\net9.0\refint\LibraryServices.dll
+F:\Project Practise\Library\LibraryServices\obj\Debug\net9.0\LibraryServices.pdb
+F:\Project Practise\Library\LibraryServices\obj\Debug\net9.0\ref\LibraryServices.dll
+F:\Project Practise\Library\LibraryServices\bin\Debug\net9.0\LibraryDbManager.dll
+F:\Project Practise\Library\LibraryServices\bin\Debug\net9.0\LibraryDbManager.pdb
+F:\Project Practise\Library\LibraryServices\obj\Debug\net9.0\LibraryServices.csproj.AssemblyReference.cache
+F:\Project Practise\Library\LibraryServices\obj\Debug\net9.0\LibraryS.D3872D5B.Up2Date

@@ -1,0 +1,15 @@
+F:\Project Practise\Library\LibraryValidation\bin\Debug\net9.0\LibraryValidation.deps.json
+F:\Project Practise\Library\LibraryValidation\bin\Debug\net9.0\LibraryValidation.dll
+F:\Project Practise\Library\LibraryValidation\bin\Debug\net9.0\LibraryValidation.pdb
+F:\Project Practise\Library\LibraryValidation\bin\Debug\net9.0\LibraryDbManager.dll
+F:\Project Practise\Library\LibraryValidation\bin\Debug\net9.0\LibraryDbManager.pdb
+F:\Project Practise\Library\LibraryValidation\obj\Debug\net9.0\LibraryValidation.csproj.AssemblyReference.cache
+F:\Project Practise\Library\LibraryValidation\obj\Debug\net9.0\LibraryValidation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project Practise\Library\LibraryValidation\obj\Debug\net9.0\LibraryValidation.AssemblyInfoInputs.cache
+F:\Project Practise\Library\LibraryValidation\obj\Debug\net9.0\LibraryValidation.AssemblyInfo.cs
+F:\Project Practise\Library\LibraryValidation\obj\Debug\net9.0\LibraryValidation.csproj.CoreCompileInputs.cache
+F:\Project Practise\Library\LibraryValidation\obj\Debug\net9.0\LibraryV.F22AF3F7.Up2Date
+F:\Project Practise\Library\LibraryValidation\obj\Debug\net9.0\LibraryValidation.dll
+F:\Project Practise\Library\LibraryValidation\obj\Debug\net9.0\refint\LibraryValidation.dll
+F:\Project Practise\Library\LibraryValidation\obj\Debug\net9.0\LibraryValidation.pdb
+F:\Project Practise\Library\LibraryValidation\obj\Debug\net9.0\ref\LibraryValidation.dll
