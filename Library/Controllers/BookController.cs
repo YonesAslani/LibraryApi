@@ -48,7 +48,7 @@ namespace Library.Controllers
                 }
                 catch
                 {
-                    return BadRequest(new { message = "لیست دسته ها معتبر نیست" });
+                    return BadRequest(new { message = "لیست دسته ها نامعتبر است" });
                 }
             }
             return BadRequest(ModelState.ErrorCount);
