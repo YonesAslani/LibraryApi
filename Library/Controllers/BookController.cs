@@ -86,7 +86,7 @@ namespace Library.Controllers
 
         }
 
-        [HttpGet("All")]
+        [HttpGet("GETAll")]
         public async Task<ActionResult<List<BookReturnModel>>> GetAllBooksAsyn()
         {
             var result = await _BookServices.GetAllBooksAsync();
